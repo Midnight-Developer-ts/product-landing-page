@@ -97,7 +97,7 @@ This project was built to meet the user stories for the FreeCodeCamp Product Lan
 ✅ All FreeCodeCamp requirements are complete, and the project works as expected.
 
 ## 📸 Preview
-![Product Landing Page Screenshot](./images/website-preview.jpeg)
+![Vamp Bags Product Landing Page Screenshot](./images/website-preview.png)
 
 ## Notes
 - Footer links (Privacy, Terms, Contact) are placeholders for demo purposes only they do not go anywhere.
