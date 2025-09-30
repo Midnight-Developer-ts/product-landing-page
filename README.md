@@ -61,7 +61,7 @@ product-landing-page/
 
 │   └── website-favicon.png  # favicon 
 
-│   └── website-preview.jpeg # preview image
+│   └── website-preview.png # preview image
 
 │── README.md                # project details  
 
