@@ -1,4 +1,4 @@
-# 👜 Product Landing Page
+# 👜 Vamp Bags | Product Landing Page
 
 ## 📖 Overview
 
