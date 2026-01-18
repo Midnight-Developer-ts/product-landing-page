@@ -37,7 +37,7 @@ CSS – styling, flexbox layout, responsiveness, hover effects
 
 ## 🚀 How to Use
 
-<a href="https://midnight-developer-ts.github.io/product-landing-page/">Click here to view the project</a>
+[`View Live Project`](https://midnight-developer-ts.github.io/product-landing-page/)
 
 Or clone/download this repository and open index.html in your browser.
 
@@ -47,23 +47,25 @@ Or clone/download this repository and open index.html in your browser.
 4. Resize the browser window to see responsive adjustments.
 
 ## 📂 Project Structure
-product-landing-page/
+product-landing-page/ `root file`
 
-│── index.html               # main webpage  
+│── index.html `main webpage`  
 
-│── css/  
+│── css/ `styling folder`
 
-│   └── styles.css           # styling  
+│   └── styles.css `styling` 
 
-│── images/  
+│── images/ `image folder`
 
-│   └── vamp-bags-logo.png   # logo
+│   └── vamp-bags-logo.png `logo image`
 
-│   └── website-favicon.png  # favicon 
+│   └── website-favicon.png `favicon`
 
-│   └── website-preview.png # preview image
+│   └── website-preview.png `preview image`
 
-│── README.md                # project details  
+│── LICENSE `license details` 
+
+│── README.md `project details` 
 
 ## 📌 Learning Goals
 
@@ -73,34 +75,19 @@ product-landing-page/
 - Embedded a YouTube video with the correct id="video".
 - Styled products with flexbox layout and responsive design.
 
-## 🎯 Certification Project Requirement Checklist
-
-This project was built to meet the user stories for the FreeCodeCamp Product Landing Page project.
-
-1. ✅ A header element with id="header".
-2. ✅ An image within the header with id="header-img".
-3. ✅ The header image has a valid src attribute.
-4. ✅ A nav element with id="nav-bar" inside the header.
-5. ✅ At least three clickable .nav-link elements in the navbar.
-6. ✅ Each .nav-link links to the corresponding section on the page.
-7. ✅ An embedded video with id="video".
-8. ✅ A form with id="form".
-9. ✅ Inside the form, an input with id="email" and placeholder text.
-10. ✅ The email input uses type="email" for HTML5 validation.
-11. ✅ The form has a submit input with id="submit".
-12. ✅ The form action is set to https://www.freecodecamp.com/email-submit.
-13. ✅ The email input has a name="email" attribute.
-14. ✅ The navbar is fixed at the top of the viewport.
-15. ✅ At least one media query is used for responsiveness.
-16. ✅ CSS Flexbox is used in the layout.
-
-✅ All FreeCodeCamp requirements are complete, and the project works as expected.
+## 🎯 Certification Compliance
+This project fully meets all FreeCodeCamp Responsive Web Design
+Technical Documentation Page user stories and requirements.
 
 ## 📸 Preview
 ![Vamp Bags Product Landing Page Screenshot](./images/website-preview.png)
 
-## Notes
-- Footer links (Privacy, Terms, Contact) are placeholders for demo purposes only they do not go anywhere.
-- "Select" buttons in the pricing section are non-functional (UI demonstration only).
-- Email signup form uses FreeCodeCamp's test action and does not actually send emails.
-- Embedded YouTube video in "How It Works" section is a placeholder for demonstration purposes.
+[`View Live Project`](https://midnight-developer-ts.github.io/product-landing-page/)
+
+## 📄 License 
+
+This project is provided for portfolio and educational review only. 
+Copying, redistribution, or commercial use is prohibited. 
+
+This project is licensed under a Midnight Developer Proprietary License. 
+See the [LICENSE](https://github.com/Midnight-Developer-ts/product-landing-page/blob/main/LICENSE) file for full terms.
