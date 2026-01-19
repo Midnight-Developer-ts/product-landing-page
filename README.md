@@ -39,12 +39,11 @@ CSS – styling, flexbox layout, responsiveness, hover effects
 
 [`View Live Project`](https://midnight-developer-ts.github.io/product-landing-page/)
 
-Or clone/download this repository and open index.html in your browser.
-
 1. Use the top navigation to move between sections.
 2. Enter your email and click Get Started to test the form submission.
 3. Check out the Features, How It Works video, and Pricing product options.
 4. Resize the browser window to see responsive adjustments.
+5. Click Midnight Developer in the footer to view more about the developer on Linktree.
 
 ## 📂 Project Structure
 product-landing-page/ `root file`
