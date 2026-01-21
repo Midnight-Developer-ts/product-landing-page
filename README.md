@@ -30,7 +30,7 @@ CSS – styling, flexbox layout, responsiveness, hover effects
 - Used hover states and customized the design with gothic/fantasy-inspired styling.
 
 ## 🚀 How to Use
-[`View Live Project`](https://midnight-developer-ts.github.io/product-landing-page/)
+[`View Live Project`](https://midnight-developer-ts.github.io/vamp-bags-product-landing-page/)
 
 1. Use the top navigation to move between sections.
 2. Enter your email and click Get Started to test the form submission.
@@ -39,7 +39,7 @@ CSS – styling, flexbox layout, responsiveness, hover effects
 5. Click Midnight Developer in the footer to view more about the developer on Linktree.
 
 ## 📂 Project Structure
-product-landing-page/ `root file`
+product-landing-page/ `root folder`
 
 │── index.html `main webpage`  
 
@@ -73,11 +73,11 @@ Technical Documentation Page user stories and requirements.
 ## 📸 Preview
 ![Vamp Bags Product Landing Page Screenshot](./images/website-preview.png)
 
-[`View Live Project`](https://midnight-developer-ts.github.io/product-landing-page/)
+[`View Live Project`](https://midnight-developer-ts.github.io/vamp-bags-product-landing-page/)
 
 ## 📄 License 
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
 This project is licensed under a Midnight Developer Proprietary License. 
-See the [LICENSE](https://github.com/Midnight-Developer-ts/product-landing-page/blob/main/LICENSE) file for full terms.
+See the [LICENSE](https://github.com/Midnight-Developer-ts/vamp-bags-product-landing-page/blob/main/LICENSE) file for full terms.
