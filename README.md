@@ -17,9 +17,8 @@ The page features a demo product lineup, a features section, an embedded video, 
 - Footer with developer credit and external link.
 
 ## 🛠️ Built With
-HTML – semantic structure, content, and form
-
-CSS – styling, flexbox layout, responsiveness, hover effects
+- HTML – structure
+- CSS – styling
 
 ## 🧰 Skills Demonstrated
 - Semantic HTML structuring
