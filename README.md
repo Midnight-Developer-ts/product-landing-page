@@ -46,7 +46,7 @@ vamp-bags-product-landing-page/ `root folder`
 
 │   └── styles.css `styling` 
 
-│── images/ `image folder`
+│── img/ `image folder`
 
 │   └── vamp-bags-logo.png `logo image`
 
@@ -70,7 +70,7 @@ This project fully meets all FreeCodeCamp Responsive Web Design
 Product Landing Page user stories and requirements.
 
 ## 📸 Preview
-![Vamp Bags Product Landing Page Screenshot](./images/website-preview.png)
+![Vamp Bags Product Landing Page Screenshot](./img/website-preview.png)
 
 [`View Live Project`](https://midnight-developer-ts.github.io/vamp-bags-product-landing-page/)
 
