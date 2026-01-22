@@ -1,4 +1,4 @@
-# 👜 Vamp Bags | Product Landing Page
+# 👜 Vamp Bags Product Landing Page
 
 ## 📖 Overview
 This product landing page was created as part of my Responsive Web Design certification through FreeCodeCamp. The objective of the project was to build a responsive product layout with form handling using only HTML and CSS. I chose to create Vamp Bags, a fictional gothic, fantasy inspired brand, to explore dark aesthetics and give the project a unique personal style.
@@ -38,7 +38,7 @@ The page features a demo product lineup, a features section, an embedded video, 
 5. Click Midnight Developer in the footer to view more about the developer on Linktree.
 
 ## 📂 Project Structure
-product-landing-page/ `root folder`
+vamp-bags-product-landing-page/ `root folder`
 
 │── index.html `main webpage`  
 
@@ -67,7 +67,7 @@ product-landing-page/ `root folder`
 
 ## 🎯 Certification Compliance
 This project fully meets all FreeCodeCamp Responsive Web Design
-Technical Documentation Page user stories and requirements.
+Product Landing Page user stories and requirements.
 
 ## 📸 Preview
 ![Vamp Bags Product Landing Page Screenshot](./images/website-preview.png)
